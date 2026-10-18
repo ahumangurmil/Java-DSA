@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/ahumangurmil/Java-DSA/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0485-max-consecutive-ones](https://github.com/ahumangurmil/Java-DSA/tree/master/0485-max-consecutive-ones) |
 | [0724-find-pivot-index](https://github.com/ahumangurmil/Java-DSA/tree/master/0724-find-pivot-index) |
 | [0860-lemonade-change](https://github.com/ahumangurmil/Java-DSA/tree/master/0860-lemonade-change) |
 ## Greedy
