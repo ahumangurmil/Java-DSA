@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/ahumangurmil/Java-DSA/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0724-find-pivot-index](https://github.com/ahumangurmil/Java-DSA/tree/master/0724-find-pivot-index) |
 | [0860-lemonade-change](https://github.com/ahumangurmil/Java-DSA/tree/master/0860-lemonade-change) |
 ## Greedy
 |  |
@@ -17,4 +18,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/ahumangurmil/Java-DSA/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+## Prefix Sum
+|  |
+| ------- |
+| [0724-find-pivot-index](https://github.com/ahumangurmil/Java-DSA/tree/master/0724-find-pivot-index) |
 <!---LeetCode Topics End-->
