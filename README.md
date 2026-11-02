@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0189-rotate-array](https://github.com/ahumangurmil/Java-DSA/tree/master/0189-rotate-array) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/ahumangurmil/Java-DSA/tree/master/0453-minimum-moves-to-equal-array-elements) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/ahumangurmil/Java-DSA/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0643-maximum-average-subarray-i](https://github.com/ahumangurmil/Java-DSA/tree/master/0643-maximum-average-subarray-i) |
 | [1089-duplicate-zeros](https://github.com/ahumangurmil/Java-DSA/tree/master/1089-duplicate-zeros) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/ahumangurmil/Java-DSA/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
@@ -43,4 +44,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0189-rotate-array](https://github.com/ahumangurmil/Java-DSA/tree/master/0189-rotate-array) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/ahumangurmil/Java-DSA/tree/master/0453-minimum-moves-to-equal-array-elements) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/ahumangurmil/Java-DSA/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
+## Sorting
+|  |
+| ------- |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/ahumangurmil/Java-DSA/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 <!---LeetCode Topics End-->
