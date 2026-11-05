@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0643-maximum-average-subarray-i](https://github.com/ahumangurmil/Java-DSA/tree/master/0643-maximum-average-subarray-i) |
 | [1089-duplicate-zeros](https://github.com/ahumangurmil/Java-DSA/tree/master/1089-duplicate-zeros) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/ahumangurmil/Java-DSA/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/ahumangurmil/Java-DSA/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/ahumangurmil/Java-DSA/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 ## Two Pointers
 |  |
@@ -17,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/ahumangurmil/Java-DSA/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0189-rotate-array](https://github.com/ahumangurmil/Java-DSA/tree/master/0189-rotate-array) |
 | [1089-duplicate-zeros](https://github.com/ahumangurmil/Java-DSA/tree/master/1089-duplicate-zeros) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/ahumangurmil/Java-DSA/tree/master/1385-find-the-distance-value-between-two-arrays) |
 ## Hash Table
 |  |
 | ------- |
@@ -52,8 +54,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/ahumangurmil/Java-DSA/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/ahumangurmil/Java-DSA/tree/master/1385-find-the-distance-value-between-two-arrays) |
 ## Recursion
 |  |
 | ------- |
 | [0206-reverse-linked-list](https://github.com/ahumangurmil/Java-DSA/tree/master/0206-reverse-linked-list) |
+## Binary Search
+|  |
+| ------- |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/ahumangurmil/Java-DSA/tree/master/1385-find-the-distance-value-between-two-arrays) |
 <!---LeetCode Topics End-->
