@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/ahumangurmil/Java-DSA/tree/master/0055-jump-game) |
 | [0189-rotate-array](https://github.com/ahumangurmil/Java-DSA/tree/master/0189-rotate-array) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/ahumangurmil/Java-DSA/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/ahumangurmil/Java-DSA/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
@@ -71,9 +72,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/ahumangurmil/Java-DSA/tree/master/0055-jump-game) |
 | [0070-climbing-stairs](https://github.com/ahumangurmil/Java-DSA/tree/master/0070-climbing-stairs) |
 ## Memoization
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/ahumangurmil/Java-DSA/tree/master/0070-climbing-stairs) |
+## Greedy
+|  |
+| ------- |
+| [0055-jump-game](https://github.com/ahumangurmil/Java-DSA/tree/master/0055-jump-game) |
 <!---LeetCode Topics End-->
