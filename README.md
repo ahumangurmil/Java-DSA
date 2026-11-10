@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/ahumangurmil/Java-DSA/tree/master/0033-search-in-rotated-sorted-array) |
+| [0053-maximum-subarray](https://github.com/ahumangurmil/Java-DSA/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/ahumangurmil/Java-DSA/tree/master/0055-jump-game) |
 | [0189-rotate-array](https://github.com/ahumangurmil/Java-DSA/tree/master/0189-rotate-array) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/ahumangurmil/Java-DSA/tree/master/0453-minimum-moves-to-equal-array-elements) |
@@ -74,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/ahumangurmil/Java-DSA/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/ahumangurmil/Java-DSA/tree/master/0055-jump-game) |
 | [0070-climbing-stairs](https://github.com/ahumangurmil/Java-DSA/tree/master/0070-climbing-stairs) |
 ## Memoization
@@ -84,4 +86,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0055-jump-game](https://github.com/ahumangurmil/Java-DSA/tree/master/0055-jump-game) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/ahumangurmil/Java-DSA/tree/master/0053-maximum-subarray) |
 <!---LeetCode Topics End-->
