@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0008-string-to-integer-atoi](https://github.com/ahumangurmil/Java-DSA/tree/master/0008-string-to-integer-atoi) |
+| [0022-generate-parentheses](https://github.com/ahumangurmil/Java-DSA/tree/master/0022-generate-parentheses) |
 | [0424-longest-repeating-character-replacement](https://github.com/ahumangurmil/Java-DSA/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/ahumangurmil/Java-DSA/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/ahumangurmil/Java-DSA/tree/master/0567-permutation-in-string) |
@@ -76,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/ahumangurmil/Java-DSA/tree/master/0022-generate-parentheses) |
 | [0053-maximum-subarray](https://github.com/ahumangurmil/Java-DSA/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/ahumangurmil/Java-DSA/tree/master/0055-jump-game) |
 | [0070-climbing-stairs](https://github.com/ahumangurmil/Java-DSA/tree/master/0070-climbing-stairs) |
@@ -91,4 +93,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/ahumangurmil/Java-DSA/tree/master/0053-maximum-subarray) |
+## Backtracking
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/ahumangurmil/Java-DSA/tree/master/0022-generate-parentheses) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/ahumangurmil/Java-DSA/tree/master/0022-generate-parentheses) |
 <!---LeetCode Topics End-->
