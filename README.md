@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/ahumangurmil/Java-DSA/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0189-rotate-array](https://github.com/ahumangurmil/Java-DSA/tree/master/0189-rotate-array) |
 | [0567-permutation-in-string](https://github.com/ahumangurmil/Java-DSA/tree/master/0567-permutation-in-string) |
+| [0876-middle-of-the-linked-list](https://github.com/ahumangurmil/Java-DSA/tree/master/0876-middle-of-the-linked-list) |
 | [1089-duplicate-zeros](https://github.com/ahumangurmil/Java-DSA/tree/master/1089-duplicate-zeros) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/ahumangurmil/Java-DSA/tree/master/1385-find-the-distance-value-between-two-arrays) |
 ## Hash Table
@@ -56,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/ahumangurmil/Java-DSA/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0206-reverse-linked-list](https://github.com/ahumangurmil/Java-DSA/tree/master/0206-reverse-linked-list) |
+| [0876-middle-of-the-linked-list](https://github.com/ahumangurmil/Java-DSA/tree/master/0876-middle-of-the-linked-list) |
 ## Math
 |  |
 | ------- |
