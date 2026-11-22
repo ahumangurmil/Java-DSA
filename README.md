@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/ahumangurmil/Java-DSA/tree/master/0014-longest-common-prefix) |
 | [0033-search-in-rotated-sorted-array](https://github.com/ahumangurmil/Java-DSA/tree/master/0033-search-in-rotated-sorted-array) |
 | [0053-maximum-subarray](https://github.com/ahumangurmil/Java-DSA/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/ahumangurmil/Java-DSA/tree/master/0054-spiral-matrix) |
@@ -36,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0008-string-to-integer-atoi](https://github.com/ahumangurmil/Java-DSA/tree/master/0008-string-to-integer-atoi) |
+| [0014-longest-common-prefix](https://github.com/ahumangurmil/Java-DSA/tree/master/0014-longest-common-prefix) |
 | [0022-generate-parentheses](https://github.com/ahumangurmil/Java-DSA/tree/master/0022-generate-parentheses) |
 | [0424-longest-repeating-character-replacement](https://github.com/ahumangurmil/Java-DSA/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/ahumangurmil/Java-DSA/tree/master/0438-find-all-anagrams-in-a-string) |
@@ -120,4 +122,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3364-minimum-positive-sum-subarray](https://github.com/ahumangurmil/Java-DSA/tree/master/3364-minimum-positive-sum-subarray) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/ahumangurmil/Java-DSA/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
