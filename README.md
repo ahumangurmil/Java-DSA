@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/ahumangurmil/Java-DSA/tree/master/0189-rotate-array) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/ahumangurmil/Java-DSA/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/ahumangurmil/Java-DSA/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
+| [3360-stone-removal-game](https://github.com/ahumangurmil/Java-DSA/tree/master/3360-stone-removal-game) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/ahumangurmil/Java-DSA/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 ## Sorting
 |  |
@@ -120,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0054-spiral-matrix](https://github.com/ahumangurmil/Java-DSA/tree/master/0054-spiral-matrix) |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/ahumangurmil/Java-DSA/tree/master/2243-calculate-digit-sum-of-a-string) |
+| [3360-stone-removal-game](https://github.com/ahumangurmil/Java-DSA/tree/master/3360-stone-removal-game) |
 ## Prefix Sum
 |  |
 | ------- |
